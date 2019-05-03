@@ -1,0 +1,206 @@
+<resources>
+    <string name="app_name">Seven Summit Indonesia</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="nama_gunung">
+        <item>Puncak JayaWijaya</item>
+        <item>Gunung Kerinci</item>
+        <item>Gunung Rinjani</item>
+        <item>Gunung Semeru</item>
+        <item>Gunung Latimojong</item>
+        <item>Gunung Binaiya</item>
+        <item>Gunung Bukitraya</item>
+    </string-array>
+
+    <string-array name="detail_gunung">
+        <item>Di urutan pertama yaitu Puncak JayaWijaya, terletak di Papua dan termasuk ke dalam pegunungan sudirman.
+            Puncak JayaWijaya memiliki tinggi 4884 Mdpl yang merupakan puncak tertinggi di Indonesia dan juga masuk dalam jajaran Seven Summits of The World.
+            Dipuncaknya terdapat salju abadi satu-satunya diwilayah tropis Indonesia.</item>
+        <item>Gunung Kerinci terletak di Sumatera Barat dan Jambi, gunung ini memiliki ketinggian 3805 Mdpl dan merupakan yang tertinggi di pulau sumatera serta sebagai gunung api tertinggi di Indonesia.
+            Gunung ini memiliki kawah berbentuk kerucut dengan dinding bagian atas berukuran 600 x 580 meter dan 120 x 100 meter untuk dinding bagian bawah.</item>
+        <item>Gunung Rinjani berlokasi di Pulau Lombok, Nusa Tenggara Barat dan juga sebagai gunung yang merupakan gunung berapi kedua tertinggi di Indonesia dengan ketinggian 3.726 Mdpl.
+            Di sebelah barat kerucut Rinjani terdapat kaldera dengan luas sekitar 3.500 m × 4.800 m, memanjang kearah timur dan barat, di kaldera ini terdapat Danau Segara Anak yang populer.</item>
+        <item>Gunung Semeru merupakan gunung berapi tertinggi di Pulau Jawa dengan puncaknya yang bernama Mahameru dengan ketinggian 3.676 Mdpl dan gunung ini terletak di antara wilayah Kabupaten Malang dan Lumajang.
+            Di Puncak Mahameru pendaki disarankan untuk tidak menuju kawah Jonggring Saloko, juga dilarang mendaki dari sisi sebelah selatan, karena adanya gas beracun dan aliran lahar.
+            Suhu dipuncak Mahameru berkisar 4 - 10 derajat Celsius pada puncak musim kemarau. minus 0 derajat Celsius, dan dijumpai kristal-kristal es.
+            Cuaca sering berkabut terutama pada siang, sore dan malam hari. Angin bertiup kencang, pada bulan Desember - Januari sering ada badai.
+            Terjadi letusan Wedus Gembel setiap 15-30 menit pada puncak gunung Semeru yang masih aktif.</item>
+        <item>Gunung Latimojong merupakan gunung tertinggi di Sulawesi dengan ketinggian 3.430 Mdpl dengan puncaknya yang bernama Rante Mario, pegunungan Latimojong ini membentang dari selatan ke utara.
+            Gunung Latimojong bukan merupakan gunung berapi, dan akses rute pendakian biasanyai akan berawal dari desa Karangan.</item>
+        <item>Gunung Binaiya yang merupakan puncak tertinggi di kepualan Ambon ini berada tepatnya di pulau Seram. Berdiri dengan ketinggian 3027 Mdpl, namun Gunung ini juga mempunyai dua puncak lain yang mempunyai ketiggian 3019 Mdpl dan 3011 Mdpl.
+            Gunung yang jarang dijamah pendaki ini mempunyai tantangan tersendiri yaitu para pendaki akan dihadapkan pada titik awal pendakian mulai dari 0 Mdpl.</item>
+        <item>Gunung Bukitraya memiliki puncak tertinggi di pulau Kalimantan dengan ketinggian 2.278 meter dari permukaan laut dan juga gunung ini berada di perbatasan propinsi Kalimantan Barat dan Kalimantan tengah.
+            Sebenarnya puncak tertinggi di pulau Kalimantan ini adalah Gunung Kinabalu dengan ketinggian 4.095 Mdpl, namun karena puncak Kinabalu berada di negeri Malaysia, maka gunung tersebut tidak termasuk dalam kelompok tujuh puncak tertinggi di Indonesia.</item>
+    </string-array>
+
+    <string-array name="brg_pribadi">
+        <item>Carrier atau Tas Gunung</item>
+        <item>Decker</item>
+        <item>Gaiter</item>
+        <item>Headlamp atau Senter</item>
+        <item>Jaket</item>
+        <item>Jas Hujan</item>
+        <item>Kaos Kaki</item>
+        <item>Kupluk</item>
+        <item>Makanan dan Minuman</item>
+        <item>Masker</item>
+        <item>Matras</item>
+        <item>Obat-obatan</item>
+        <item>Pakaian Ganti</item>
+        <item>Peralatan Makan</item>
+        <item>Sarung Tangan</item>
+        <item>Sepatu/Sendal Gunung</item>
+        <item>Sleeping Bag  atau Kantung Tidur</item>
+        <item>Tracking Pole atau Tongkat Daki</item>
+
+    </string-array>
+
+    <string-array name="desk_pribadi">
+        <item>Tas ini fungsinya untuk membawa dan menampung barang bawaan serta perlengkapan lainnya dalam mendaki gunung.
+            Biasanya  tas yang digunakan berkapasitas 45 liter, 65 liter, 75 liter, 85 liter, bahkan ada yang sampai 115 liter.
+            Tas gunung kapasitas besar biasanya dibawa atau dimiliki oleh mereka yang terbiasa menjadi leader ataupun porter dalam kelompok pendakian.
+            Hal dimaksudkan agar dalam perjalanan tidak semua anggota mendapat beban fisik yang sama saat perjalanan.
+            Harapannya, saat ada kelelahan dari anggota lain bisa berbagi beban atau bertukar beban tas.
+            Paling penting tas gunung juga harus memiliki penutup tas yang anti basah agar ketika hujan, tas terhindar basah dan barang di dalam aman dari hujan.
+        </item>
+        <item>Ini pilihan untuk di bawa. Tapi, decker ini berguna untuk mengurangi beban lutut saat memanjat atau turun gunung demi meminimalkan kemungkinan cidera pada lutut.
+            Decker dari kain yang terbuat dari lembut dan elastis.</item>
+        <item>Jika gunung tujuan Anda memiliki medan berpasir, alat ini perlu dimiliki.
+            Gaiter dipasang di bagian atas sepatu sebagai penutup sampai sebatas lutut.
+            Biasanya terbuat dari kain atau polyester.
+            Titik untuk melindungi bagian bawah kaki, dan juga untuk menghindari masuknya pasir dan batu ke dalam sepatu saat melewati trek berpasir dan berbatu di pegunungan.
+        </item>
+        <item>Penting untuk kondisi gelap. Headlamp ini adalah senter yang menempel di kepala.
+            Dengan headlamp(lampu/senter dipasang di kepala) atau senter akan membantu Anda melakukan berbagai kegiatan di malam hari.
+            Pendaki tentu akan lebih mudah menggunakan headlamp daripada senter biasa yang dipegang di tangan karena dengan headlamp tangan jadi lebih leluasa bergerak dan beristirahat.
+            Jangan lupa pula membawa baterai cadangan untuk mengantisipasi habisnya daya baterai senter.
+        </item>
+        <item>Jaket adalah salah satu peralatan pendakian yang sangat penting, sifatnya wajib.
+            Jaket ini berguna untuk menahan dan mengurangi dingin sehingga panas tubuh tetap terjaga.
+            Hal ini berguna untuk menghindari hal-hal buruk yang tidak diinginkan karena dingin.
+            Cukup banyak kasus pendaki yang mengalami hipertemia atau kedinginan karena jaket yang tidak memadai untuk Manahan dingin.
+            Jadi bawa lah jaket yang nyaman agar pendakian Anda juga aman.
+        </item>
+        <item>Seperti namanya jas hujan berfungsi untuk melindungi tubuh Anda dari hujan ketika mendaki sehingga badan dan peralatan Anda tetap kering.
+            Selain jas hujan mungkin juga digunakan sebagai dasar untuk Bivak dalam kondisi darurat.
+            Nah, untuk membuat bivak ini biasanya menggunakan jas hujan jenis ponco yang lebar, bukan jas hujan yang terdiri dari kemeja dan celana antihujan.
+            Saya sendiri saat mendakian membagi beberapa anggota untuk membawa jas hujan jenis ponco dan jas hujan jenis kemeja celana.
+            Hal tersebut untuk berjaga-jaga saja kalau ada kondisi yang mengharuskan mendirikan bivak sederhana.
+        </item>
+        <item>
+            Kaos kaki dibutuhkan untuk menghangatkan kaki dan kaki dari dingin. Sama halnya seperti sarung tangan.
+            Manfaatnya akan sangat terasa saat tidur di malam hari. Setidaknya bawalah 2 pasang kaos kaki saat mendaki gunung.
+            Sepasang dikenakan untuk perjalanan pendakian sementara sepasang yang lain digunakan pada saat tidur.
+        </item>
+        <item>Kupluk berguna sebagai penutup kepala untuk mengurangi dingin.
+            Meskipun kecil, kupluk sangat penting untuk menjaga panas tubuh.
+            Kepala dan telinga juga sensitif terhadap dingin.
+            Silakan Anda bisa membawanya demi kenyamana.
+            Tidak juga tidak apa selama ini memiliki daya tahan yang baik terhada dingin.
+        </item>
+        <item>Makanan atau bahan makanan yang wajib dibawa adalah beras satu liter untuk perjalanan 2-3 hari atau mie instan.
+            Pendaki dapat membawa makanan ringan kesukaan sesuai kecukupan masing-masing selama tidak membebani perjalanan berlebihan.
+            Bawalah makanan manis atau berkarbohidrat tinggi. Selain makanan, tentunya bawa lah air mineral.
+            Setidaknya setiap individu membawa 1 botol besar dan 1 botol kecil.
+        </item>
+        <item>Beberapa gunung memiliki lintasan berpasir dan sangat berdebu. Hal ini tentu dapat mengganggu pernafasan.
+            Masker ini berguna sebagai topeng untuk menghindari debu saat mendaki gunung,
+            untuk mengurangi eksposur terhadap dingin pada bibir dan mulut.
+            Selain itu, masker ini juga bisa digunakan sekadar menjaga wajah dari paparan sinar matahari.
+        </item>
+        <item>Matras ini berfungsi sebagai kasur saat tidur di dalam tenda.
+            Atau sebagai alas duduk saat ingin bersantai ria saat bersitirahat, berteduh dan sebagainya tanpa harus duduk beralaskan tanah.
+            Secara umum matras berbahan karet. Pilihlah sesuai selera saja karena ada matras dengan karet tebal atau tipis.
+        </item>
+        <item>Mempersiapkan perawatan-perawatan terutama jika Anda memiliki penyakit tertentus eperti Alergi, dll.
+            Obat lain yang dapat diambil termasuk obat luka, minyak kayu putih, balsem, madu, gula, tolak angin dll.
+        </item>
+        <item>Bawalah  pakaian ganti secukupnya sesuai tujuan dan berapa lama waktu pendakian.
+            Ganti pakaian Anda jika sudah basah karena keringat atau lembab.
+            Pakaian yang basah dapat membahayakan kondisi tubuh.
+            Dengan mengganti pakaian badan akan lebih segar dan tetap hangat.
+        </item>
+        <item>Kalau peralatan masak adalah perlengkapan wajib kelompok, makan peralatan makan adalah perlengkapan wajib individu.
+            Setiap anggota harus membawa minimal satu piring, gelas, sendok, dan garpu.
+            Pilihlah yag berbhan plastik agar tidak pecah di perjalanan. Masing-masing satu saja sudah cukup.
+        </item>
+        <item>Sarung tangan sangat berguna untuk melindungi tangan dari goresan, gesekan, atau mungkin gigitan kecil dari hewan di tangan Anda
+            ketika melewati trek di gunung, terutama di hutan lebat atau berduri.
+            Selain itu, sarung tangan ini juga berguna untuk menjaga suhu tubuh.
+            Karena salah satu bagian tubuh kita, yaitu jari-jari sangat sensitive terhadap udara suhu dingin.
+            Sementara lain kain lembut sarung tangan yang saya biasanya pakai saat tidur untuk mendapatkan kehangatan.
+        </item>
+        <item>Sepatu gunung memiliki pijakan yang sudah disesuakan agar mencengkeram kuat dalam berbagai medan.
+            Pijakan kuat ini menghindari terjadinya kecelakaan karena sepatu yang tidak cocok di perjalanan.
+            Jadi, sepatu ini sangat penting karena banyak pendaki mengalami cidera disebabkan kaki yang terpelintir entah karena salah berpijak atau sepatu yang tidak cocok.
+            Sandal hanyalah cadangan jika sepatu rusak atauapun jika ingin sekadar berjalan-jalan saat sudah mendirikan tenda.
+        </item>
+        <item>Sleeping Bag atau Kantong Tidur berguna untuk menutupi tubuh Anda pada saat tidur di tenda sehingga tubuh kita tetap hangat.
+            Tidak dapat dipungkiri, bahkan jika Anda tidur di tenda, biasanya masih tidak cukup untuk menjaga masuknya udara pegunungan yang dingin selama malam hari.
+            Dua faktor perlu dipertimbangkan ketika memilih kantong tidur adalah kualitas bahan dan ukuran.
+            Kantong tidur besar, tidak selalu baik dalam menahan dingin.
+        </item>
+        <item>Tongkat ini berfungsi untuk membantu waktu istirahat panjat terutama ketikamelewati lereng cukup miring.
+            Istilah ini hanya tongkat. Trekking tiang ini mampumenyesuaikan panjang pendek tersebut sesuai dengan kebutuhan Anda.
+            Anda tidak perlu memaksakan diri untuk memiliki alat ini.
+        </item>
+    </string-array>
+
+    <string-array name="brg_kelompok">
+        <item>Gas</item>
+        <item>Handie-Talkie</item>
+        <item>Kantong Sampah</item>
+        <item>Kompas</item>
+        <item>Kompor</item>
+        <item>Korek</item>
+        <item>Lilin</item>
+        <item>Nesting</item>
+        <item>Peluit</item>
+        <item>Pisau Lipat</item>
+        <item>Senter</item>
+        <item>Tenda</item>
+        <item>Trangia</item>
+    </string-array>
+
+    <string-array name="desk_kelompok">
+        <item>
+            Fungsinya sebagai bahan bakar untuk menyalakan kompor.
+        </item>
+        <item>Diharapkan setiap tim pendakian memiliki radio komunikasi
+            untuk mempermudah hubungan dengan pos pendakian apabila menghadapi suatu masalah di jalur pendakian
+        </item>
+        <item>Ingat, sampah yang dihasilkan selama perjalanan jangan dibuang di alam, tetapi bawa kembali sampai menuju pos dan dibuang pada tempat semestinya.
+            Trash bag ini berguna untuk meletakkan sampah-sampah selama pendakian. Sebagai contoh bungkus-bungkus makanan Anda.
+            Selain sampah tas ini juga berguna sebagai lapisan pada bagian dalam ransel tas gunung untuk menjaga barang, terutama pakaian tetap kering.
+            Kantong sampah atau trash bag ini beli lah yang besar, bukan sekadar pelastik keresek biasa.
+        </item>
+        <item>
+            Fungsinya sebagai alat navigasi jika kita tidak mengetahui jaluir pendakian,dan juga ketika kita sedang kesasar di suatu tempat
+        </item>
+        <item>Digunakan untuk memasak makanan atau air.</item>
+        <item>
+            Fungsinya untuk menyalakan api atau sebagai penghangat
+        </item>
+        <item>Fungsinya untuk menerangi malam disaat kegelapan.</item>
+        <item>Tempat menyimpan makanan</item>
+        <item>
+            Dalam keadaan darurat ketika kita memerlukan pertolongan atau memanggil anggota yang lain pada siang hari,
+        cara penggunaannya ditiup, dapat juga untuk mengirimkan kode SOS
+        </item>
+        <item>Digunakan untuk memotong sesuatu</item>
+        <item>Fungsinya untuk menerangi jarak jauh</item>
+        <item>Tenda diperlukan untuk tempat berteduh dari konisi alam yang tidak memunginkan perjalanan dilanjutkan atau tempat kita tidur saat bermalam.
+            Tenda yang mudah merembes embun atau hujan tentu akan membuat kita tidak nyaman.
+            Jadi pilihlah tenda berkualitas baik jika Anda ingin memilikinya.
+            Jika ingin menyewa sesuaikan dengan tujuan dan kondisi cuaca saat akan mendaki.
+        </item>
+        <item>
+            Alat gunung, kompor untuk memasak saat melakukan kegiatan alam bebas, mendaki gunung, caving,
+            bahkan dalam perjalanan traveling pun tidak sedikit orang yang menggunakan kompor trangia ini sering digunakan.
+        </item>
+    </string-array>
+</resources>
